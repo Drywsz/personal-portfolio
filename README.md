@@ -22,7 +22,7 @@ Este é o meu portfólio pessoal, desenvolvido para apresentar meus projetos, ha
 
 Este portfólio está disponível online via GitHub Pages. 
 
-<!-- Adicionar link do GitHub Pages aqui quando estiver configurado. -->
+https://Drywsz.github.io/personal-portfolio/
 
 ## ⚙️ Como Rodar Localmente
 
